@@ -2,10 +2,9 @@
 
 **NoteMap** is an intuitive and visually engaging web application that merges the functionality of note-taking with an interactive map interface. Whether you’re planning trips, marking favorite spots, or organizing your daily life, NoteMap has you covered with style and simplicity.
 
-## 🌟 Preview 
-___________________
 
-Note_Map_JS_Project/Note_map_JS.gif
+
+![🌟 Preview](https://github.com/yasin-erkan/Note_Map_Js/blob/main/Note_Map_JS_Project/Note_map_JS.gif)
 
 
 ## 🌟 Features
